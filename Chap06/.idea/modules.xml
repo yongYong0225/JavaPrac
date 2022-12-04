@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chap06.iml" filepath="$PROJECT_DIR$/Chap06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec05/exam01/exam01.iml" filepath="$PROJECT_DIR$/sec05/exam01/exam01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec05/exam02/exam02.iml" filepath="$PROJECT_DIR$/sec05/exam02/exam02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.prac/exam03/exam03.iml" filepath="$PROJECT_DIR$/sec04.prac/exam03/exam03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.prac/exam04/exam04.iml" filepath="$PROJECT_DIR$/sec04.prac/exam04/exam04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec03.exam01/sec03.exam01.iml" filepath="$PROJECT_DIR$/sec03.exam01/sec03.exam01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec03.exam02/sec03.exam02.iml" filepath="$PROJECT_DIR$/sec03.exam02/sec03.exam02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec03.exam03/sec03.exam03.iml" filepath="$PROJECT_DIR$/sec03.exam03/sec03.exam03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec03.exam04/sec03.exam04.iml" filepath="$PROJECT_DIR$/sec03.exam04/sec03.exam04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.exam01/sec04.exam01.iml" filepath="$PROJECT_DIR$/sec04.exam01/sec04.exam01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.exam02/sec04.exam02.iml" filepath="$PROJECT_DIR$/sec04.exam02/sec04.exam02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.exam03/sec04.exam03.iml" filepath="$PROJECT_DIR$/sec04.exam03/sec04.exam03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.exam04/sec04.exam04.iml" filepath="$PROJECT_DIR$/sec04.exam04/sec04.exam04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.exam05/sec04.exam05.iml" filepath="$PROJECT_DIR$/sec04.exam05/sec04.exam05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.exam06/sec04.exam06.iml" filepath="$PROJECT_DIR$/sec04.exam06/sec04.exam06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec04.prac/sec04.prac.iml" filepath="$PROJECT_DIR$/sec04.prac/sec04.prac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec05/sec05.iml" filepath="$PROJECT_DIR$/sec05/sec05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec05/sec05.exam03/sec05.exam03.iml" filepath="$PROJECT_DIR$/sec05/sec05.exam03/sec05.exam03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec05/sec05.exam05/sec05.exam05.iml" filepath="$PROJECT_DIR$/sec05/sec05.exam05/sec05.exam05.iml" />
+    </modules>
+  </component>
+</project>
