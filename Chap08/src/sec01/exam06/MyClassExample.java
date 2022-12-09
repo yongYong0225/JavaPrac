@@ -8,14 +8,14 @@ public class MyClassExample {
 
         MyClass myClass1 = new MyClass();
         myClass1.rc.turnOn();
-        myClass1.rc.setVolume(5);
+        myClass1.rc.setVolume(15);
 
         System.out.println("2)----------------");
 
         MyClass myClass2 = new MyClass(new Audio());
 
         System.out.println("3)----------------");
-        
+
         MyClass myClass3 = new MyClass();
         myClass3.methodA();
 

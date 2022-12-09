@@ -19,7 +19,7 @@ public class Television implements RemoteControl {
             this.volume = volume;
         }
 
-        System.out.println("현재오 TV볼륨: " + volume);
+        System.out.println("현재 TV볼륨: " + this.volume);
 
     }
 
